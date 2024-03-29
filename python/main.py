@@ -12,7 +12,6 @@ class Solution(object):
                 if matrix[i][j] == 0:
                     t_x = i + 1
                     t_y = y + 1
-                    while t_x<n:
 
 
 
